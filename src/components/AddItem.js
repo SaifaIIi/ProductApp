@@ -37,7 +37,9 @@ function AddItem(props) {
         flag = false;
         break;
       } else {
+        // flag = true;
         flag = true;
+
         console.log("not same");
       }
     }
